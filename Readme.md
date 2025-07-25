@@ -8,7 +8,6 @@ B.Tech Artificial Intelligence and Data Science
   <a href="https://dsengg.ac.in/" target="_blank">
     <img src="https://th.bing.com/th/id/R.fd7bd818b260bb272dac4caabb148225?rik=%2fplRIa16%2fRDIhg&riu=http%3a%2f%2fwww.dsgroups.org%2fimg%2fDS+Group+logo.jpg&ehk=%2bS9fYVYtErif28wR8UxzVyvj%2bYkyKag4jCYpRowTubA%3d&risl=&pid=ImgRaw&r=0" alt="Dhanalakshmi Srinivasan Engineering College Logo" width="50"/>
   </a>
-- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/mokesh_Official) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mokeshraj-venkatesan-3abbb4251/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/raaj_for_life/)
