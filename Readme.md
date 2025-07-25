@@ -25,6 +25,9 @@ src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" wi
 ### 📊 My GitHub Stats
 
 ![Mokeshraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mokeshraaj&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokeshraaj&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mokeshraaj&theme=tokyonight&hide_border=true)
+
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mokeshraj?theme=dark&font=Marcellus&ext=contest)
