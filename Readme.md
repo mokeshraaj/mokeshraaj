@@ -4,11 +4,13 @@ B.Tech Artificial Intelligence and Data Science
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://mokeshraaj.github.io/Portfolio/)                                                 
 - 🌱 I’m currently learning Python and Machine learning and open to work.
-- Engineeing at<p align="center">
-  <a href="https://www.dsec.ac.in/" target="_blank">
-    <img src="https://th.bing.com/th/id/R.fd7bd818b260bb272dac4caabb148225?rik=%2fplRIa16%2fRDIhg&riu=http%3a%2f%2fwww.dsgroups.org%2fimg%2fDS+Group+logo.jpg&ehk=%2bS9fYVYtErif28wR8UxzVyvj%2bYkyKag4jCYpRowTubA%3d&risl=&pid=ImgRaw&r=0" alt="DSEC Logo" width="110" height="110" style="border-radius: 10px;"/>
+- Engineeing at<a href="https://www.dsec.ac.in/" target="_blank">
+    <img src="https://th.bing.com/th/id/R.fd7bd818b260bb272dac4caabb148225?rik=%2fplRIa16%2fRDIhg&riu=http%3a%2f%2fwww.dsgroups.org%2fimg%2fDS+Group+logo.jpg&ehk=%2bS9fYVYtErif28wR8UxzVyvj%2bYkyKag4jCYpRowTubA%3d&risl=&pid=ImgRaw&r=0" 
+         alt="DSEC Logo" 
+         width="80" 
+         style="vertical-align: middle; margin-left: 8px;" />
   </a>
-</p>
+
 
 
 - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
