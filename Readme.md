@@ -3,7 +3,7 @@
 B.Tech Artificial Intelligence and Data Science
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://mokeshraaj.github.io/Portfolio/)                                                 
-- 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
+- 🌱 I’m currently learning Python and DSA as well as Integrating AI to my workflow!
 - Engineeing at <p align="left">
   <a href="https://dsengg.ac.in/" target="_blank">
     <img src="https://th.bing.com/th/id/R.fd7bd818b260bb272dac4caabb148225?rik=%2fplRIa16%2fRDIhg&riu=http%3a%2f%2fwww.dsgroups.org%2fimg%2fDS+Group+logo.jpg&ehk=%2bS9fYVYtErif28wR8UxzVyvj%2bYkyKag4jCYpRowTubA%3d&risl=&pid=ImgRaw&r=0" alt="Dhanalakshmi Srinivasan Engineering College Logo" width="50"/>
