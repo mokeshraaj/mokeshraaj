@@ -7,7 +7,7 @@ B.Tech Artificial Intelligence and Data Science
 - Engineering at
 <p align="left">
   <a href="https://dsengg.ac.in/" target="_blank">
-    <img src="https://th.bing.com/th/id/R.fd7bd818b260bb272dac4caabb148225?rik=%2fplRIa16%2fRDIhg&riu=http%3a%2f%2fwww.dsgroups.org%2fimg%2fDS+Group+logo.jpg&ehk=%2bS9fYVYtErif28wR8UxzVyvj%2bYkyKag4jCYpRowTubA%3d&risl=&pid=ImgRaw&r=0" alt="Dhanalakshmi Srinivasan Engineering College Logo" width="60"/>
+    <img src="https://th.bing.com/th/id/R.fd7bd818b260bb272dac4caabb148225?rik=%2fplRIa16%2fRDIhg&riu=http%3a%2f%2fwww.dsgroups.org%2fimg%2fDS+Group+logo.jpg&ehk=%2bS9fYVYtErif28wR8UxzVyvj%2bYkyKag4jCYpRowTubA%3d&risl=&pid=ImgRaw&r=0" alt="Dhanalakshmi Srinivasan Engineering College Logo" width="50"/>
   </a>
 </p>
 
